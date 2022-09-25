@@ -1,2 +1,11 @@
-# TO-DO-LIST
-Lista de Tareas
+
+👋 Hola, soy @EltonM07
+- 👀 Me interesa...
+- 🌱 Actualmente estoy aprendiendo...
+- 💞️ Estoy buscando colaborar en...
+- 📫 Como contactarme...
+
+<!---
+EltonM07/EltonM07 es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
+Puede hacer clic en el enlace Vista previa para ver los cambios.
+--->
